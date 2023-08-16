@@ -22,7 +22,7 @@ First, you need to install the necessary libraries:
 
 pip install requests pyyaml
 
-**How to run:
+How to run:
 •	Two files are there with this attachment. 
 health_check.py is the code file and config.yaml is the sample provided in this assignment.
 •	Put these files in a folder. 
@@ -34,7 +34,7 @@ below is the command I used in my anaconda prompt.
 First line is the command and rest all are results.
  
 
-The program will start logging availability percentages every 15 seconds until you manually stop it.**
+The program will start logging availability percentages every 15 seconds until you manually stop it.
 
 
 How this code is working to fulfil the requirements:
