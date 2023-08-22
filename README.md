@@ -1,4 +1,4 @@
-# Fetch_assesment
+# Assesment
 
 My understanding about this requirement:
 The requirement is to implement a health-check system for HTTP endpoints defined in a YAML configuration file. Every 15 seconds, the health of each endpoint should be checked. An endpoint is considered "UP" if it returns an HTTP 2xx response within 500ms. The cumulative availability percentage for each domain (extracted from the endpoint URLs) is to be logged after each cycle.
